@@ -3,10 +3,10 @@ import os
  
 # initialize the path to the input directory containing our dataset
 # of images
-DATASET_PATH = "Database"
+DATASET_PATH = "Dataset"
  
 # initialize the class labels in the dataset
-CLASSES = ["Cyclone", "Earthquake", "Flood", "Wildfire"]
+CLASSES = ["Earthquake", "Flood", "Tsunami", "NA"]
 
 # define the size of the training, validation (which comes from the
 # train split), and testing splits, respectively
