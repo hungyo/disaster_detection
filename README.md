@@ -25,3 +25,4 @@ docker pull hungyo/natural_disaster:latest
 ```
 docker run -itd -v <volume map> --runtime=nvidia --network=host hungyo/natural_disaster:latest
 ```
+* credits to pyimagesearch.com
