@@ -1,4 +1,4 @@
 pika==1.0.0
 psutil
-grpcio==1.0.0
+grpcio==1.53.0
 imutils
